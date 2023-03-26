@@ -2,4 +2,5 @@
 A fun little Vue Js clone of the website Kick.com
 
 
-![image](https://user-images.githubusercontent.com/96470333/227783204-15cb0f4f-654e-4254-972b-c420b1801567.png)
+
+![Screenshot 2023-03-26 224308](https://user-images.githubusercontent.com/96470333/227783515-7db9a687-c33a-48ca-b95f-149921658337.png)
