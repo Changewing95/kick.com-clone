@@ -9,7 +9,8 @@
         </div>
         <div class="user-row" v-for="(object, index) in listOfStreamer" :key="index">
             <div class="user-profile">
-                <img src="../../assets/xqc.jpg">
+                <img :src="object.img" />
+
             </div>
             <div class="user-name" :class="{ mobileViewCSS : state.mobileView  }">
                 <div class="username">
@@ -29,28 +30,37 @@
 
 <script setup>
 import { reactive, onMounted } from 'vue';
+import gm from '../../assets/GM.webp'
+import gm2 from '../../assets/2.webp'
+import gm3 from '../../assets/3.webp'
+import xqc from '../../assets/xqc.jpg'
 
 
 var listOfStreamer = [
     {
-        username: "xqc",
-        game: "Just Chatting",
+        username: "GMHikaru",
+        game: "Chess",
         viewers: 232,
+        img: gm
+    },
+    {
+        username: "Stephen",
+        game: "Fortnite",
+        viewers: 1500,
+        img: gm2
+    },
+    {
+        username: "Gamer1",
+        game: "Call Of Duty",
+        viewers: 1000,
+        img: gm3
     },
     {
         username: "xqc",
         game: "Just Chatting",
-        viewers: 232,
-    },
-    {
-        username: "xqc",
-        game: "Just Chatting",
-        viewers: 232,
-    },
-    {
-        username: "xqc",
-        game: "Just Chatting",
-        viewers: 232,
+        viewers: 10,
+        img: xqc
+
     },
 ]
 

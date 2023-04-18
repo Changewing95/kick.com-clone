@@ -9,7 +9,7 @@
                 <h1>GTA 5</h1>
             </div>
             <div class="desc">
-                <h3 style="color: rgb(95,104,104)">6999 Viewers</h3>
+                <h3 style="color: rgb(95,104,104)">100 Viewers</h3>
             </div>
         </div>
         <div class="category">
@@ -17,10 +17,10 @@
                 <img src="../../assets/sleep.webp">
             </div>
             <div class="title">
-                <h1>GTA 5</h1>
+                <h1>Just Sleeping</h1>
             </div>
             <div class="desc">
-                <h3 style="color: rgb(95,104,104)">6999 Viewers</h3>
+                <h3 style="color: rgb(95,104,104)">99 Viewers</h3>
             </div>
         </div>
         <div class="category">
@@ -28,10 +28,10 @@
                 <img src="../../assets/cod.webp">
             </div>
             <div class="title">
-                <h1>GTA 5</h1>
+                <h1>Call Of Duty</h1>
             </div>
             <div class="desc">
-                <h3 style="color: rgb(95,104,104)">6999 Viewers</h3>
+                <h3 style="color: rgb(95,104,104)">600 Viewers</h3>
             </div>
         </div>
         <div class="category">
@@ -39,10 +39,10 @@
                 <img src="../../assets/fornite.webp">
             </div>
             <div class="title">
-                <h1>GTA 5</h1>
+                <h1>Fortnite</h1>
             </div>
             <div class="desc">
-                <h3 style="color: rgb(95,104,104)">6999 Viewers</h3>
+                <h3 style="color: rgb(95,104,104)">120 Viewers</h3>
             </div>
         </div>
         <div class="category">
@@ -50,10 +50,10 @@
                 <img src="../../assets/val.webp">
             </div>
             <div class="title">
-                <h1>GTA 5</h1>
+                <h1>Valorant</h1>
             </div>
             <div class="desc">
-                <h3 style="color: rgb(95,104,104)">6999 Viewers</h3>
+                <h3 style="color: rgb(95,104,104)">200 Viewers</h3>
             </div>
         </div>
         <div class="category">
@@ -61,10 +61,10 @@
                 <img src="../../assets/apex.webp">
             </div>
             <div class="title">
-                <h1>GTA 5</h1>
+                <h1>Apex Legends</h1>
             </div>
             <div class="desc">
-                <h3 style="color: rgb(95,104,104)">6999 Viewers</h3>
+                <h3 style="color: rgb(95,104,104)">2003 Viewers</h3>
             </div>
         </div>
         <div class="category">
@@ -72,10 +72,10 @@
                 <img src="../../assets/ark.webp">
             </div>
             <div class="title">
-                <h1>GTA 5</h1>
+                <h1>ARK Survival</h1>
             </div>
             <div class="desc">
-                <h3 style="color: rgb(95,104,104)">6999 Viewers</h3>
+                <h3 style="color: rgb(95,104,104)">19 Viewers</h3>
             </div>
         </div>
         <div class="category">
@@ -83,10 +83,10 @@
                 <img src="../../assets/ow.webp">
             </div>
             <div class="title">
-                <h1>GTA 5</h1>
+                <h1>Overwatch 2</h1>
             </div>
             <div class="desc">
-                <h3 style="color: rgb(95,104,104)">6999 Viewers</h3>
+                <h3 style="color: rgb(95,104,104)">60 Viewers</h3>
             </div>
         </div>
         <div class="category">
@@ -94,10 +94,10 @@
                 <img src="../../assets/mc.webp">
             </div>
             <div class="title">
-                <h1>GTA 5</h1>
+                <h1>Minecraft</h1>
             </div>
             <div class="desc">
-                <h3 style="color: rgb(95,104,104)">6999 Viewers</h3>
+                <h3 style="color: rgb(95,104,104)">12 Viewers</h3>
             </div>
         </div>
         <div class="category">
@@ -105,10 +105,10 @@
                 <img src="../../assets/csgo.webp">
             </div>
             <div class="title">
-                <h1>GTA 5</h1>
+                <h1>CS:GO</h1>
             </div>
             <div class="desc">
-                <h3 style="color: rgb(95,104,104)">6999 Viewers</h3>
+                <h3 style="color: rgb(95,104,104)">234 Viewers</h3>
             </div>
         </div>
         <div class="category">
@@ -116,10 +116,10 @@
                 <img src="../../assets/lol.webp">
             </div>
             <div class="title">
-                <h1>GTA 5</h1>
+                <h1>League Game</h1>
             </div>
             <div class="desc">
-                <h3 style="color: rgb(95,104,104)">6999 Viewers</h3>
+                <h3 style="color: rgb(95,104,104)">203 Viewers</h3>
             </div>
         </div>
     </div>

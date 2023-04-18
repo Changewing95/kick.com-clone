@@ -2,13 +2,7 @@
 <template>
  <div class="first-row">
     <div class="category">
-        <h1>Category</h1>
-    </div>
-    <div class="live-channels">
-        <h1>Live Channels</h1>
-    </div>
-    <div class="clips">
-        <h1>Clips</h1>
+        <h1>Top Live Categories</h1>
     </div>
  </div>
 </template>
